@@ -27,8 +27,7 @@
 ### About Me :
 I'm an eclectic developer from Italy whose main passions are:
 - 🔭: numerical methods and scientific computing;
-- ⛓️: blockchain technology and real world asset tokenization;
-- ⚛️: quantum computing and quantum algorithms.
+- ⚛️: SciML and quantum machine learning.
 
 In my free time I:
 - 🌱: explore technical content writing;
